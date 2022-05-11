@@ -6,6 +6,8 @@ Team Member:
 - [@R-oink](https://github.com/R-oink)
 - [@tempure](https://github.com/tempure)
 
+**_5/11/2022 update: our final score is 95/100_**
+
 4/16 TODO:
 - [x] simply implement NFA to DFA
 - [ ] minimize the DFA
